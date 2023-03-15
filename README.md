@@ -25,4 +25,4 @@ On s'intéresse au problème général où l'on a n cannibales et n missionnaire
     
     d. Une annexe contenant le listing de votre programme.
     
-3. De restituer votre travai, au cours d'une soutenance de 10 minutes (sans transparent)
+3. De restituer votre travail, au cours d'une soutenance de 10 minutes (sans transparent)
